@@ -1,1 +1,1 @@
-# An-Account-of-Models-of-Molecular-Circuits-for-Associative-Learning-with-Reinforcement-Effect-and-Fo
+source code for the Sensors article **An Account of Models of Molecular Circuits for Associative Learning with Reinforcement Effect and Forced dissociation**.
